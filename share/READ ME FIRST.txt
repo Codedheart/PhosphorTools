@@ -1,0 +1,26 @@
+PHOSPHOR TOOLS  -  launcher for the Phosphor apps
+================================================
+
+No install needed.
+
+1. Right-click the zip > "Extract All..." > Extract, and move the
+   PhosphorTools folder somewhere of your own, like Documents or the
+   Desktop. (Keep the folder together: PhosphorTools.exe needs the
+   "_internal" folder next to it.)
+
+2. Double-click PhosphorTools.exe. If Windows says "Windows protected
+   your PC": click "More info", then "Run anyway".
+
+A small circle appears. Click it and the apps fan out around it:
+
+  Phosphor XP      EXP / hour overlay
+  Phosphor Count   boss respawn timers
+  PhosphorWatch    Twitch stream viewer
+
+Click an app to install it (first time only), start it, hide it, or
+show it again. Hiding doesn't close it. Drag the circle anywhere;
+right-click it for colors, opacity, "Start with Windows" and more.
+
+Apps are installed in %LOCALAPPDATA%\PhosphorTools\apps and keep
+themselves updated. The launcher's settings are in
+%APPDATA%\PhosphorTools.
